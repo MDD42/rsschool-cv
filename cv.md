@@ -4,6 +4,11 @@
 
 Contact Info:
 ---
++ [Phone](+375336813094)
++ [Email](denis.m2022@gmail.com)
++ [Telegram](https://t.me/denismdd42)
++ [Dicord]([Денис]#6538) 
+   >(@mdd42)
 
 ___
 
