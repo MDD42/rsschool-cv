@@ -9,16 +9,30 @@ ___
 
 About yourself:
 ---
++  28 years. Worked in the field of medicine. During the year he mastered 3D modeling, which brings good experience and income. A burning desire to improve and develop in front-end development.
++  _My strengths:_ Team playing, communication skills, result-oriented, initiative, resourcefulness. 
+    >Keep learning…
++ The acquisition of new skills and knowledge that give me the opportunity to start a career in this field of activity.
 
 ___
 
 Skills:
 ---
++ Javascript
+    >basic proficiency
++ HTML, CSS
+    >basic proficiency
++ Компас-3D, SolidWorks, Fusion 360
 
 ___
 
 Code example:
 ---
+This code does not execute properly. Try to figure out why.
+ 
+      function multiply(a, b){
+        return a * b
+      }
 
 ___
 
