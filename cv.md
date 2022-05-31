@@ -33,7 +33,7 @@ ___
 
 Code example:
 ---
-This code does not execute properly. Try to figure out why.
+_This code does not execute properly. Try to figure out why._
  
       function multiply(a, b){
         return a * b
@@ -49,7 +49,7 @@ ___
 
 Education:
 ---
-+ BSU biochemistry scientific production
++ _BSU_ biochemistry scientific production
 + [Htmlacademy.ru](htmlacademy.ru)
     >HTML, CSS (in process...)
 
