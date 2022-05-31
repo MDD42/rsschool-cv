@@ -43,13 +43,19 @@ ___
 
 Experience:
 ---
+> _Missing._
 
 ___
 
 Education:
 ---
++ BSU biochemistry scientific production
++ [Htmlacademy.ru](htmlacademy.ru)
+    >HTML, CSS (in process...)
 
 ___
 
 Languages:
 ---
++ English - A2 
+    > (B1 in process…)
