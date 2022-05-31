@@ -43,7 +43,7 @@ ___
 
 Experience:
 ---
- [My first project](https://github.com/MDD42/rsschool-cv/blob/gh-pages/cv.md)
+ [My first project](https://mdd42.github.io/rsschool-cv/cv)
   >Github resume.
 
 ___
